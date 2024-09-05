@@ -1,1 +1,1 @@
-# CSIS312-NLP
+# Natural Language Processing
